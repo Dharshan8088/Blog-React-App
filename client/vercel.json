@@ -1,0 +1,8 @@
+{
+    "reweites" : [
+        {
+            "sources": "/api/(.*)",
+            "destination": "/api"
+        }
+    ]
+}
